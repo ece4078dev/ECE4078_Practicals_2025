@@ -85,6 +85,7 @@ Simply clicking on the badge of each week will land you in a page in which you c
 | 		| Cloud platform |
 | ------------- | -------------- |
 | Week00 | N/A   |
+| Week01 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ECE4078-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week012025-592f63e0-df5e-46e9-803f-8be23d64b444)   |
 
 # How to use Deepnote
 
