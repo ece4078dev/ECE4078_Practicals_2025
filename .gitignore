@@ -415,3 +415,9 @@ data/
 # ipynb checkpoints
 .ipynb_checkpoints/
 ipynb_checkpoints/
+
+# Otter logs
+.OTTER_LOG
+OTTER_LOG
+
+
