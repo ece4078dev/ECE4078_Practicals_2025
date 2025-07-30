@@ -7,7 +7,7 @@ import numpy as np
 
 class InteractiveApp:
 
-    def __init__(self, host="0.0.0.0", port=8080):
+    def __init__(self, host="0.0.0.0", port=8080, display_host="127.0.0.1"):
         self.host, self.port = host, port
         self.app = dash.Dash(__name__)
         self.app.layout = html.Div()
@@ -21,7 +21,7 @@ class InteractiveApp:
             self.url = f"https://{deepnote_id}.deepnoteproject.com"
             self.is_deepnote = True
         else:
-            self.url = f"http://{self.host}:{self.port}"
+            self.url = f"http://{display_host}:{self.port}"
             self.is_deepnote = False
 
 
