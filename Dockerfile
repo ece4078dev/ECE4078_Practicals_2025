@@ -1,4 +1,4 @@
-FROM tinsirius/ece4078_prac:focal-2d32309
+FROM tinsirius/ece4078_prac:focal-e29987c
 
 RUN python3 -m pip install --no-cache-dir notebook==6.4.8 jupyterlab==4.0.3 ipympl==0.9.3 ipywidgets==8.0.7
 
@@ -13,7 +13,7 @@ RUN adduser --disabled-password \
     --uid ${NB_UID} \
     ${NB_USER}
 
-COPY . ${HOME}
+# COPY . ${HOME}
 USER root
 RUN chown -R ${NB_UID} ${HOME}
 

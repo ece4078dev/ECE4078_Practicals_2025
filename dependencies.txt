@@ -20,3 +20,4 @@ notebook==6.4.8
 jupyterlab==4.0.3 
 ipympl==0.9.3
 ipywidgets==8.0.7
+dash==3.1.1
