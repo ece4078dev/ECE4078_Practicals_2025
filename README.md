@@ -102,3 +102,7 @@ To do you home work:
 
 A visual guide is included in this [video](https://youtu.be/zA7RqTRkFPA).
 
+# Forking
+
+Additionally, make sure you do not fork the public repository as forked repositories are always public and will cause academic integrity issues.
+
