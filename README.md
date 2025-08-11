@@ -103,3 +103,10 @@ To do you home work:
 
 A visual guide is included in this [video](https://youtu.be/zA7RqTRkFPA).
 
+# FAQs:
+Q: [GENERAL] Do I need to run `docker compose up --build --force-recreate` every time?
+A: When you pull the updated repo from git, you should re-run the compose command so that it recreates the container with the relevant updated files
+
+Q: [MACOS] Where can I store the github folder?
+A: Anywhere that is not on the cloud
+
