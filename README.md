@@ -88,6 +88,7 @@ Simply clicking on the badge of each week will land you in a page in which you c
 | Week01 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ECE4078-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week012025-592f63e0-df5e-46e9-803f-8be23d64b444)   |
 | Week02 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ECE4078-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week022025-f2ac850a-19bc-498d-b0cd-1237b4e61647)   |
 | Week03 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ECE4078-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week032025-0982729b-60b1-4a67-84ab-0fd65c2e818b)   |
+| Week04 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ECE4078-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week042025-dbf96da9-974b-443d-8b81-705b05240793)   |
 
 # How to use Deepnote
 
@@ -102,11 +103,4 @@ To do you home work:
 - Submit the file to Moodle before deadline.
 
 A visual guide is included in this [video](https://youtu.be/zA7RqTRkFPA).
-
-# FAQs:
-Q: [GENERAL] Do I need to run `docker compose up --build --force-recreate` every time?
-A: When you pull the updated repo from git, you should re-run the compose command so that it recreates the container with the relevant updated files
-
-Q: [MACOS] Where can I store the github folder?
-A: Anywhere that is not on the cloud
 
