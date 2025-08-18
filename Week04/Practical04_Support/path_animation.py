@@ -5,7 +5,7 @@ def animate_path_bug(initial_robot_pos, goal_pos, path, obstacles, robot_size, w
     
     fig = go.Figure()
 
-    for obs in [obstacles[1], obstacles[0]]:
+    for obs in obstacles:
         verts = obs.compute_inner_vertices(wall_thickness/2 + robot_size)
         path_str = "M " + " L ".join(f"{x},{y}" for x,y in verts) + " Z"
         fig.add_shape(
