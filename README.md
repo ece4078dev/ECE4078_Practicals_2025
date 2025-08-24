@@ -89,6 +89,7 @@ Simply clicking on the badge of each week will land you in a page in which you c
 | Week02 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ECE4078-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week022025-f2ac850a-19bc-498d-b0cd-1237b4e61647)   |
 | Week03 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ECE4078-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week032025-0982729b-60b1-4a67-84ab-0fd65c2e818b)   |
 | Week04 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ECE4078-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week042025-dbf96da9-974b-443d-8b81-705b05240793)   |
+| Week05 | [<img src="https://deepnote.com/buttons/launch-in-deepnote-white-small.svg">](https://deepnote.com/workspace/ECE4078-bdf57084-6c08-4dea-a555-1d8b5ffa5d2c/project/Week-05-e344ab82-d89b-470a-a805-efb17869c032)   |
 
 # How to use Deepnote
 
