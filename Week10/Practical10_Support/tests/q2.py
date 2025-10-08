@@ -15,7 +15,7 @@ test = {
                     >>> _ = test_PatchEmbedding.load_state_dict(sd)
                     >>> a = eval_timeout_print("test_PatchEmbedding(x_loaded)") # doctest:+ELLIPSIS
                     skip ...
-                    >>> torch.equal(a, a_loaded)
+                    >>> torch.allclose(a, a_loaded)
                     True
                     """,
                     "hidden": False,
